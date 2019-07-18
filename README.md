@@ -1,0 +1,1 @@
+Exercises and code variations from The Audio Programming Book
